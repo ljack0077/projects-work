@@ -7,7 +7,7 @@ import os
 TASKS = [
     {
         "name": "Run Python Script",
-        "path": r"C:\Users\J.Rustamov\Desktop\my_script.py",
+        "path": r"C:\Users\Desktop\my_script.py",
         "time": "09:00"  # daily at 9:00
     },
     {
